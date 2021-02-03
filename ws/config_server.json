@@ -19,7 +19,6 @@
             "port": 80,
             "protocol": "vless",
             "settings": {
-			"decryption": "none",
                 "clients": [
                     {
                         "id": "115b399e-9c7d-406e-adf9-172c965a3c54"
