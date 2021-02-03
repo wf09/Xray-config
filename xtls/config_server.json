@@ -24,8 +24,8 @@
                     ],
                     "certificates": [
                         {
-                            "certificateFile": "/root/.ssl/fullchain.crt", 
-                            "keyFile": "/root/.ssl/privkey.key"
+                            "certificateFile": "/root/fullchain.crt", 
+                            "keyFile": "/root/privkey.key"
                         }
                     ]
                 }
